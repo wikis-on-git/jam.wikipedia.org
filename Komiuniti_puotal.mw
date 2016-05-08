@@ -1,0 +1,22 @@
+<div style="background:#f9f9f9; border:1px solid #ddd; -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -moz-border-radius: 7px; -webkit-border-radius: 7px; border-radius: 7px; background: -moz-linear-gradient(top, #fff 75%, #f9f9f9 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(75%,#fff), color-stop(100%,#f9f9f9)); background: -webkit-linear-gradient(top, #fff 75%,#f9f9f9 100%); background: -o-linear-gradient(top, #fff 75%,#f9f9f9 100%); background: -ms-linear-gradient(top, #fff 75%,#f9f9f9 100%); background: linear-gradient(top, #fff 75%,#fff 100%); height:auto; padding-left:10px; padding-right:10px; padding-bottom:5px; padding-top:5px; margin-left:5px; margin-right:5px; margin-bottom:6px;">
+{| style="width:100%;"
+| style="width:61%; color:#000;" |
+
+{| style="width:280px; border:none; background:none;"
+| style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
+<span style="font-family:Arial;font-size:230%;color:Lightblue;text-shadow: 0.1em 0.1em 0.1em gray">Welkom tu di '''Komiuniti puotal''',</span><span style="font-family:Arial;font-size:230%;color:DarkBlue;text-shadow: 0.1em 0.1em 0.1em gray">''','''</span>
+<div style="top:+0.2em; font-size:95%;">ah Wikipidia, di frii insaiklopidia we enibadi kiah edit.</div>
+|}
+
+{| id="mp-upper" style="width: 100%; margin:6px 0 0 0; background:none; border-spacing: 0px;"
+| style="width:50%; background:#F0F8FF; border:1px solid #EECFA1; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
+{| style="width:100%; margin:0 0 0 0; padding:0 0 0 0;"
+|- style="vertical-align:top;"
+| style="width:100%;" |
+<div id="mf-fp">
+{{HU/BoxHeader|#6677FA|#8899FD}}<center><span style="font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0em 0em 0em grey">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Topics'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></center></div>
+</div></div>
+{{General discussion‎}}
+|}
+
+[[Category:!Main category|*]]
