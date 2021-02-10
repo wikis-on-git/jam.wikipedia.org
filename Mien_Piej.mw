@@ -2,7 +2,7 @@
 {|style="width:100%;margin-top:-.7em;"
 |style="width:46%;"|
 <div style="float:left; width:0em; height:0em; margin:2.5em 0em 0em -3.5em;">[[File:Wikipedia-logo-v2-200px-transparent.png|250px|link=]]</div>
-<center><p style="font-size:150%; font-weight:bold; font-family:Verdana; color:Midnightblue; margin:0 0 0 2em;">[[Wikipidia:Welkom|Welkom]] tu di '''[[Jumiekan Patwa]] [[Wikipidia]]!'''</p><center><p style="font-size:90%; font-family:Verdana; margin:0 0 0 3.5em;">di frii [[insaiklopidia]] we enibadi kiah edit!</p>
+<div class="center"><p style="font-size:150%; font-weight:bold; font-family:Verdana; color:Midnightblue; margin:0 0 0 2em;">[[Wikipidia:Welkom|Welkom]] tu di '''[[Jumiekan Patwa]] [[Wikipidia]]!'''</p></div><div class="center"><p style="font-size:90%; font-family:Verdana; margin:0 0 0 3.5em;">di frii [[insaiklopidia]] we enibadi kiah edit!</p></div>
 | width="9%" align="center"| <imagemap>Image:P physics.svg|36px|Sayans
 default [[:Category:Sayans|Sayans]]
 desc none</imagemap>[[:Category:Sayans|Sayans]]
@@ -32,8 +32,8 @@ __NOTOC__
 |- style="vertical-align:top;"
 | style="width:100%;" |
 <div id="mf-fp">
-{{HU/BoxHeader|#C2D3FC|DeepSkyBlue|DodgerBlue}}<center><span style="font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0em 0em 0em grey">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Jinaral Infamieshan
-'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></center></div>
+{{HU/BoxHeader|#C2D3FC|DeepSkyBlue|DodgerBlue}}<div class="center"><span style="font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0em 0em 0em grey">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Jinaral Infamieshan
+'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div></div>
 </div></div>
 {{HU/BoxContent
 | content = {{Mien Piej}}
@@ -44,7 +44,7 @@ __NOTOC__
 |- style="vertical-align:top;"
 | style="width:100%;" |
 <div id="mf-fp">
-{{HU/BoxHeader|#C2D3FC|DeepSkyBlue|DodgerBlue}}<center><span style="font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0em 0em 0em grey">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Mien Kiatigari'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></center></div>
+{{HU/BoxHeader|#C2D3FC|DeepSkyBlue|DodgerBlue}}<div class="center"><span style="font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0em 0em 0em grey">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Mien Kiatigari'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div></div>
 </div></div>
 {{HU/BoxContent
 | content = {{Aatikl}}
